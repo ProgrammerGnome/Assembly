@@ -1,0 +1,16 @@
+EAX
+AX
+AH, AL: Mindenhez (osztás, szorzás, I/O műveletek végrehajtása)
+
+EBX
+BX
+BJ, BL: Indirekt címzésnél használható, az adatszegmensben tárolt adatok báziscímét tartalmazza
+
+ECX
+CX
+CH, CL: Általában ciklus, léptető, forgató és sztring utasítások ciklusszámlálója
+
+EDX
+DX
+DH, DL: Mindenhez (szorzás, osztás, I/O)
+
